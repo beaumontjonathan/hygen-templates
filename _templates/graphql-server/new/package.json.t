@@ -10,6 +10,7 @@ to: <%= folder %>/package.json
   "version": "<%= version %>",
   "scripts": {
     "start": "sls offline",
+    "lint": "eslint --ext ts,js src",
     "generate:graphql": "graphql-codegen --config codegen.yml"
   },
   "dependencies": {
