@@ -1,0 +1,9 @@
+{
+  "name": "hygen-templates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:beaumontjonathan/hygen-templates.git",
+  "author": "beaumontjonathan <beaumont_jonny@hotmail.co.uk>",
+  "license": "MIT",
+  "private": true
+}
