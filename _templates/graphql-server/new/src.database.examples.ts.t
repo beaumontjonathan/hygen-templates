@@ -1,5 +1,5 @@
 ---
-to: <%= folder %>/src/database/example/index.ts
+to: <%= folder %>/src/database/examples/index.ts
 ---
 import { connectionFromUnion, DbFn, Dbify } from '../helpers';
 import { Example, OmitId, Id } from '../../types';
