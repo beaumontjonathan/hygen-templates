@@ -1,5 +1,5 @@
 ---
-to: <%= folder %>/.eslint.js
+to: <%= folder %>/.eslintrc.js
 ---
 module.exports = {
   parser: '@typescript-eslint/parser',
